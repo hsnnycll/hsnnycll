@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Who am I and what am I doing? 🤔
 
-I'm **Test Engineer**, I ensure software products meet high-quality standards by designing and executing comprehensive test plans, cases, and scripts. I use both manual and automated methods to identify **defects and bugs**, working closely with developers and utilizing testing tools and technologies to improve efficiency. My goal is to deliver software tests that meet business requirements and customer needs with superior quality and performance.  
+I'm **Test Engineer** ✨ , I ensure software products meet high-quality standards by designing and executing comprehensive test plans, cases, and scripts. I use both manual and automated methods to identify 🔭 **defects and bugs**, working closely with developers and utilizing testing tools and technologies to improve efficiency. My goal is to deliver software tests that meet business requirements and customer needs with superior quality and performance.  
 🎯I use the following automation tools during my works:  
 
 ![tools](https://user-images.githubusercontent.com/111237832/221950747-ca6adcc5-8cc2-48fc-a7ad-c1a997a5280f.png)
